@@ -1,0 +1,6 @@
+@testGitWebApi_HostAddress = http://localhost:5043
+
+GET {{testGitWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
